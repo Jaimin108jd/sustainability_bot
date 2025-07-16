@@ -61,4 +61,6 @@ http://localhost:8501
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a95330d-5f79-4363-8ee7-a64744ed2cf0" />
 
 
+STREAMLIT LINK: https://sustainabilitybot.streamlit.app/
+
 
