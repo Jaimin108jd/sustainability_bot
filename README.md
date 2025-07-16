@@ -54,10 +54,11 @@ http://localhost:8501
 
 📸 UI Preview:
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef28d73d-bd98-47fe-9ad9-7d25e44afe0c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3697ad64-ca23-499c-9af4-073bd9687546" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ac43d64-01cc-4652-93ec-07f29e442370" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/50dcff6c-54c1-4af5-8fc2-7f0db52ace4a" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3964c1cf-74e4-4b97-a64d-5e491241d445" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a95330d-5f79-4363-8ee7-a64744ed2cf0" />
+
 
 
