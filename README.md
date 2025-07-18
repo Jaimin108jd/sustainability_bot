@@ -47,7 +47,7 @@ The app will open in your browser at:
 http://localhost:8501
 
 ✅ Example Questions
-"What are alternatives to plastic water bottles?"
+"What are alternatives to plastic water bottles??"
 "How can I recycle old electronics?"
 "Ways to reduce food waste at home"
 "Eco-friendly cleaning products I can make"
